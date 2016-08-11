@@ -1,0 +1,13 @@
+{
+	"text": "You head north, along a dirt path that seems beaten into the ground. Eventually you come across a brightly colored house apparently made out of candy. An elderly, kindly lady sits on the porch and beckons you to come to her. Your stomach rumbles with hunger. Do you eat part of the house or do you go to the old lady in this cliched setting?",
+	"choices": [
+		{
+			"text": "Eat the house",
+			"goto": "house"
+		},
+		{
+			"text": "See old lady",
+			"goto": "oldlady"
+		}
+	]
+}
