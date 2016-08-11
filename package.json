@@ -1,0 +1,15 @@
+{
+  "name": "simple-adventure",
+  "version": "1.0.0",
+  "description": "Demo adventure game for alexa for a presentation",
+  "main": "simple-adventure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Chester",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}

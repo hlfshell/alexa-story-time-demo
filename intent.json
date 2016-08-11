@@ -1,0 +1,16 @@
+{
+	"intents": [
+		{
+			"intent": "InitIntent"
+		},
+		{
+			"intent": "AdventureIntent",
+			"slots": [
+				{
+					"name": "choice",
+					"type": "CHOICE"
+				}
+			]
+		}
+	]
+}

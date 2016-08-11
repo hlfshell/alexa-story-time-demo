@@ -1,0 +1,21 @@
+{
+	"text": "You awaken in a field, unsure how you got there. You look around, and decide going in a cardinal direction is probably a good start to this adventure.",
+	"choices": [
+		{
+			"text": "Go north",
+			"goto": "north"
+		},
+		{
+			"text": "Go south",
+			"goto": "south"
+		},
+		{
+			"text": "Go east",
+			"goto": "east"
+		},
+		{
+			"text": "Go west",
+			"goto": "west"
+		}
+	]
+}

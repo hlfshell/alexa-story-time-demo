@@ -1,0 +1,13 @@
+{
+	"text": "You head east to avoid running into a plethora of free range kale only diets. Eventually you come to a lake with a hut on it. Leaning on the hut is a fishing pole. There is a dock with a boat. Do you rush away or sit back and try and catch some food?",
+	"choices": [
+		{
+			"text": "Go fishing",
+			"goto": "fishing"
+		},
+		{
+			"text": "Go on boat",
+			"goto": "boat"
+		}
+	]
+}
